@@ -56,10 +56,7 @@ const Navbar = () => {
           </li>
           <li>Mega Menu</li>
           <li>Any page</li>
-          <li>Right dropdown</li>
-          {/* <li className="hamburger">
-            <i class="fa fa-bars" aria-hidden="true"></i>
-          </li> */}
+         
         </center>
       </ul>
       <ul className="nav2">
